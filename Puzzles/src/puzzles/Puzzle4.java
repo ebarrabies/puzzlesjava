@@ -1,7 +1,7 @@
 package puzzles;
 
 /**
- * Demostración de evaluación del operador ternario
+ * Demostración de evaluación del operador ternario (sin comentarios aun)
  * 
  * @author ebarrab
  */
